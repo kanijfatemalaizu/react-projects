@@ -5,6 +5,7 @@
     justify-content: space-between;
     padding: 0 8px;
     height: 72px;
+    /* background-color: brown; */
     ul{
       display: flex;
       gap:24px;

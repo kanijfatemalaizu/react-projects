@@ -9,7 +9,7 @@ function App() {
     <div>
       <Navigation/>
       <main className="main_container"> 
-        <ContactHeader/>
+        {/* <ContactHeader/> */}
         <ContactForm/>
       </main>
     </div>
